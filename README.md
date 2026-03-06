@@ -7,6 +7,10 @@ A sample implementation for visualbasicadvance-m can be found at https://github.
 
 This repository contains binaries for currently-supported emulators, as well as .ips patches to enable 2-player controls in games.
 
+__Binaries for many platforms can now be found here: https://github.com/illinx/visualboyadvance-m/releases__
+
+If there is a platform you would like to see supported that isn't there, open an Issue and I will try and add it.
+
 __Note For Newer Versions of VisualBoyAdvance-M__
 
 GBA2 support is now gated by an option in my fork of VBA-M. To enable it:
