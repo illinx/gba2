@@ -17,11 +17,11 @@ GBA2 support is now gated by an option in my fork of VBA-M. To enable it:
 
 In Windows:
 
-* Options->Game Boy Advance->Enable 2P Support
+* Options->Game Boy Advance->Enable 2nd Controller
   
 In RetroArch:
 
-* Core Options->System->Enable 2P Support
+* Core Options->System->Enable 2nd Controller
   
 __Individual Game Notes__
 
