@@ -27,8 +27,12 @@ __Individual Game Notes__
 
 Sword Of Mana
 
-* Press P2 select to join and quit the game, when there is a companion in the party. The AI will take over when P2 is not tagged in.
+* Press P2 select to join and quit the game, when there is a companion in the party. The AI will take over when P2 is not tagged in. HUD will show in full mode when P2 is active.
 
 Double Dragon Advance
 
 * Play "1P Double Dragon Game" to enable couch coop mode. Other game modes are not affected.
+
+River City Ransom EX
+
+* Press P2 select to join and quit the game. Only active in "duo" modes (Ryan+Alex or Alex+Ryan). P2 will always control the second character, and cannot control any of the other posse members. There is currently no HUD indication when P2 is joined or not.
