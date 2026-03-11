@@ -15,7 +15,7 @@ __Note For Newer Versions of VisualBoyAdvance-M__
 
 GBA2 support is now gated by an option in my fork of VBA-M. To enable it:
 
-In Windows:
+In Standalone:
 
 * Options->Game Boy Advance->Enable 2nd Controller
   
